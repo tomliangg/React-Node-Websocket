@@ -10,3 +10,5 @@ It doesn't do much but it's enough to demonstrate the real-time power of using w
   * npm i
   * npm run dev
   
+## Demo
+<img src="https://media.giphy.com/media/TgIi1j5vai1uCBw7b2/giphy.gif" />
